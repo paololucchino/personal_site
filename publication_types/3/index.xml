@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Paolo Lucchino</title>
-    <link>https://paololucchino.github.io/publication/index.xml</link>
-    <description>Recent content in Publications on Paolo Lucchino</description>
+    <title>3 on Paolo Lucchino</title>
+    <link>https://paololucchino.github.io/publication_types/3/index.xml</link>
+    <description>Recent content in 3 on Paolo Lucchino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Paolo Lucchino</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Entrepreneurship, gender and the constraints of time: a randomised experiment on the role of access to light</title>
@@ -34,15 +33,6 @@
       <pubDate>Sat, 09 Jul 2016 21:45:54 +0200</pubDate>
       
       <guid>https://paololucchino.github.io/publication/powering-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explaining patterns in the school-to-work transition: An analysis using optimal matching</title>
-      <link>https://paololucchino.github.io/publication/explaining-patterns-in-the-school-to-work-transition-An-analysis-using-optimal-matching/</link>
-      <pubDate>Mon, 01 Dec 2014 22:05:49 +0200</pubDate>
-      
-      <guid>https://paololucchino.github.io/publication/explaining-patterns-in-the-school-to-work-transition-An-analysis-using-optimal-matching/</guid>
       <description></description>
     </item>
     
